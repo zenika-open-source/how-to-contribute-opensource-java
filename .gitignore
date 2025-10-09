@@ -37,3 +37,7 @@ gradlew.bat
 .project
 .settings
 .metadata
+
+# Docker
+Dockerfile
+docker-compose.local.yml
